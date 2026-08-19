@@ -1,22 +1,22 @@
-#SOFR Predictor
+# SOFR Predictor
 **Stage:** Problem Framing & Scoping (Stage 01)
 
 ##Problem Statement 
 Many lendors and creditors rely on the SOFR to determine interest payments. As such, for budgeting purposes, knowing what the SOFR will be could prove to be very handy.
 
-##Stakeholder & User
+## Stakeholder & User
 This project prioritizes stakeholder value over user value as they are the end-user. The stakeholders are CFOs. Users are analysts and the stakeholders. This project is best used right when the latest SOFR data has become available as it should be able to predict the SOFR rates for the next week.
 
-##Useful Answer & Decision
+## Useful Answer & Decision
 This project is predictive and returns several estimation ranges of SOFR up to a week ahead and pulls the latest data daily.
 
-##Assumptions and Constraints
+## Assumptions and Constraints
 This will be updated as the project undergoes development
 
-##Known Unknowns / Risks
+## Known Unknowns / Risks
 - Model is not entirely accurate, the outputs are estimations
 
-##Lifecycle Mapping
+## Lifecycle Mapping
 - Goal 1: Problem Framing & Scoping 
     - artifact: README.md
 - Goal 2: Acquiring, Ingesting, & Storing the Data 
@@ -33,5 +33,5 @@ This will be updated as the project undergoes development
     - artifact: Repo is published
 
 
-##Repo Plan
+## Repo Plan
 data/, src/, notebooks/, docs/, cadence for updates

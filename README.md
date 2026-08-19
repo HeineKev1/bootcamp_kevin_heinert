@@ -1,11 +1,12 @@
 # Bootcamp Repository
+python version = 3.11
 ## Folder Structure
 - **homework/** → All homework contributions will be submitted here.
 - **project/** → All project contributions will be submitted here.
 - **class_materials/** → Local storage for class materials. Never pushed to
 GitHub.
 ## Homework Folder Rules
-- Each homework will be in its own subfolder (`homework0`, `homework1`, etc.)
+- Each homework will be in its own subfolder (`homework00`, `homework01`, etc.)
 - Include all required files for grading.
 ## Class Materials Rules
 - Each stage's handouts go in their own subfolder, named exactly as the course
